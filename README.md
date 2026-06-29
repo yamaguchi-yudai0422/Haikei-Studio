@@ -2,12 +2,13 @@
 
 Windows 版ダウンロード:
 
-- [Haikei Studio v1.0.0 をダウンロード](https://github.com/yamaguchi-yudai0422/Haikei-Studio/releases/tag/v1.0.0)
+- [zip版をダウンロード](https://github.com/yamaguchi-yudai0422/Haikei-Studio/raw/main/HaikeiStudio-win64.zip)
+- [exe単体をダウンロード](https://github.com/yamaguchi-yudai0422/Haikei-Studio/raw/main/Haikei%20Studio.exe)
 
 ## 使い方
 
-1. Release ページを開く
-2. `HaikeiStudio-win64.zip` をダウンロード
+1. `HaikeiStudio-win64.zip` をダウンロード
+2. そのまま使いたい場合は `Haikei Studio.exe` 単体でもダウンロード可能
 3. zip を解凍
 4. `Haikei Studio.exe` を起動
 
